@@ -1,0 +1,8 @@
+Self-host license notice:
+The Nitsor control plane and data plane are source-available under FSL, not open source. The bundled Convex backend is FSL-1.1-ALv2,
+which is source-available but not OSI-approved open source for the running release.
+The per-release Apache conversion never reaches the version you are running and is not a mitigation.
+
+Licence texts:
+- FSL-1.1-ALv2: https://fsl.software/FSL-1.1-ALv2.template.md
+- Convex backend: https://github.com/get-convex/convex-backend/blob/main/LICENSE.md
