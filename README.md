@@ -19,8 +19,9 @@ there is no Nitsor sign-in page to open.
 ## Download
 
 From [Releases](https://github.com/nitsor/self-host/releases), download the
-three files of the latest release: `nitsor-self-host-<release>.tar.gz`,
-`SHA256SUMS` and `SHA256SUMS.minisig`.
+three files of the latest release: `nitsor-self-host-<commit>.tar.gz`, where
+`<commit>` is the first 12 characters of the source commit, `SHA256SUMS` and
+`SHA256SUMS.minisig`.
 
 ## Verify
 
@@ -48,7 +49,7 @@ commit, which `release.txt` in the bundle also records.
 ## Install
 
 ```sh
-tar -xzf nitsor-self-host-<release>.tar.gz
+tar -xzf nitsor-self-host-<commit>.tar.gz
 cd nitsor-self-host
 ./install.sh
 docker compose -f compose.yaml up -d
