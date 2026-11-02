@@ -61,4 +61,4 @@ Every release is signed with the Nitsor release key `F1819173358F3BE4` (see [REA
 
 ## Third-party components
 
-The bundle runs Convex backend and dashboard images published by Convex. Report vulnerabilities in those images to Convex as well as to us.
+The bundle runs Convex backend and dashboard images published by Convex. Report vulnerabilities in those images to Convex at [security@convex.dev](mailto:security@convex.dev) (see <https://www.convex.dev/security>) as well as to us.
