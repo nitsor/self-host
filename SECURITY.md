@@ -53,7 +53,7 @@ We credit reporters in the advisory unless you ask us not to. We do not run a pa
 
 ## EU Cyber Resilience Act
 
-For Nitsor products with digital elements made available on the EU market, Nitsor reports actively exploited vulnerabilities and severe incidents under Article 14 of Regulation (EU) 2024/2847 (the Cyber Resilience Act), through ENISA's single reporting platform, and informs affected users. Please tell us if you have seen exploitation: it helps us meet those deadlines.
+Nitsor has not published a release yet. Once a Nitsor product with digital elements is made available on the EU market, Nitsor will report actively exploited vulnerabilities and severe incidents in it under Article 14 of Regulation (EU) 2024/2847 (the Cyber Resilience Act), through ENISA's single reporting platform, and will inform affected users. Please tell us if you have seen exploitation: it helps us report on time.
 
 ## Verifying releases
 
